@@ -9,6 +9,10 @@ public class App {
 		System.out.println("Apain()");
 		System.out.println("ppmain()");
 		System.out.println("Appmain()");
+		System.out.println("Appmain);
+				System.out.println("Apain()");
+				System.out.println("ppmain()");
+				System.out.println("Appmain()");
 	}
 	public String simplemethod() {
 		return "wipro";
